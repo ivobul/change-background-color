@@ -1,4 +1,4 @@
-const colorBtn = document.querySelector(".colorBtn");
+const colorBtn = document.querySelector(".color-btn");
 const bodyBg = document.querySelector("body");
 const span = document.querySelector("span");
 
