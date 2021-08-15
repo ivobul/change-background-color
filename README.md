@@ -1,1 +1,1 @@
-# change-background-color
+# Change Background Color | JavaScript Exercise
